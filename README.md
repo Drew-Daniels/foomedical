@@ -51,7 +51,7 @@ Then, run the app!
 npm run dev
 ```
 
-This app should run on `http://localhost:3003/`
+This app should run on `http://localhost:3002/`
 
 Log into the app on localhost using the same credentials you created on [foomedical.com](https://foomedical.com/) and you are ready to start customizing.
 
